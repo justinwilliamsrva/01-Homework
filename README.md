@@ -1,6 +1,6 @@
 # 01-Homework
 -Changed all Divs to semantic HTML
--Removed a </img>
+-Removed a incorrect image ending tag
 -Made parargraph tags inline
 -Elements flow in order html head body(nav,image,Section,Aside,footer)
 -Added alt attributes and descriptions for all image tags
