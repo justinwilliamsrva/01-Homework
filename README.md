@@ -1,6 +1,6 @@
 # 01-Homework
 
-HEN I view the source code
+WHEN I view the source code
 THEN I find semantic HTML elements
 -Changed all Divs to semantic HTML
 -Removed a </img>
