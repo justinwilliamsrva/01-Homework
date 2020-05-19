@@ -1,6 +1,6 @@
 # 01-Homework
-
-\*HTML CHANGES
+<pre>
+*HTML CHANGES
 
 -Changed most Divs to semantic HTML
 -Removed a incorrect image ending tag
@@ -12,3 +12,4 @@
 
 *CSS Changes
 *Combined selectors in order to remove repeated property values.
+</pre>
