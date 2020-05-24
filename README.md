@@ -1,16 +1,18 @@
 # 01-Homework
-<pre>
-*HTML CHANGES
 
--Changed most Divs to semantic HTML
--Removed a incorrect image ending tag
--Made parargraph tags inline
--Elements flow in order html head body(nav,image,Main,Aside,footer)
--Added alt attributes and descriptions for all image tags
--Changed tags with mutiple attributes from inline to a new line.
--Changed the <title> from website to Horiseon
--Fixed the error in the placeholder tag
+# HTML CHANGES
 
-*CSS Changes
-*Combined selectors in order to remove repeated property values.
-</pre>
+## Head
+
+Changed title of site to Horison
+
+## Body
+
+Removed an incorrect </img>
+Elements flow in order in Semantic Html(nav,image,Main,Aside,footer)
+Fixed broken link in SEO Placeholder tag
+Added alt attributes and descriptions for all image tags
+
+# CSS Changes
+
+Combined selectors in order to remove repeated property values.
